@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lukasz.olszyk1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Z8-SX-FQ-OdT_OXfuepAy3VYm4BSeW8wO68aj3M1OXg/edit?usp=sharing](https://docs.google.com/document/d/1Z8-SX-FQ-OdT_OXfuepAy3VYm4BSeW8wO68aj3M1OXg/edit?usp=sharing)
+- 📄 Know about my experiences [checkout my CV](https://docs.google.com/document/d/1Z8-SX-FQ-OdT_OXfuepAy3VYm4BSeW8wO68aj3M1OXg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
