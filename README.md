@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
 <h3 align="center">I am self-taught, hardworking beginner Unity Developer. Previously I worked as a front-end developer, but I decided to pursue my passion - creating games!</h3>
 
-- 🔭 I’m currently working on [cool horror game!](https://github.com/LukOls1/asylum-horror)
+- 🔭 I’m currently working on:
+  - [Check out repository](https://github.com/LukOls1/asylum-horror)
+  - [Checkout gameplay video](https://www.youtube.com/watch?v=0H6kHM8uiG8)
 
 - 🌱 I’m currently learning **AI advanced mechanics**
 
